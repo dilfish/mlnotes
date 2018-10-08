@@ -1,1 +1,1 @@
-module github.com/dilfish/mlnotes
+module github.com/dilfish/mlnotes/v2
